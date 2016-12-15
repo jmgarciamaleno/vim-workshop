@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd ~
 unlink ~/.vimrc
 unlink ~/.vim

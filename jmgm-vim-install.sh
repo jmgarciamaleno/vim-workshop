@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd ~
 mv .vimrc .vimrc_backup
 mv .vim .vim_backup
