@@ -1,0 +1,6 @@
+## Open, reload, save, quit
+
+vim <file1> <file2> ...
+:e <file> / :e!
+:w / :w!
+:q / :q!

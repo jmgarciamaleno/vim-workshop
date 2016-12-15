@@ -1,0 +1,19 @@
+## Yank (copy) / cut / delete / paste exercises
+
+1. Select with v and yank with y the word "neverending"
+   Paste it at the end of the line with p
+   Paste it at the beginning of the line with P
+
+The neverending story.
+
+2. Yank the whole line with yy and paste it above with P, then below with p
+
+Human passions have mysterious ways, in children as well as grown-ups.
+
+3. Delete the whole line with dd
+
+The sphinxes shut their eyes for some travelers and let them through.
+
+4. Delete the final numbers with D
+
+The sphinxes shut their eyes for some travelers and let them through.12345

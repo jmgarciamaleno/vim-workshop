@@ -1,2 +1,2 @@
-# vim-workshop-I
-Vim training, session one.
+# vim-workshop
+Vim training.

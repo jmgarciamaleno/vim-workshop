@@ -1,0 +1,12 @@
+## Registers (clipboards)
+
+"<registerid>
+""
+"+ or "*
+"0 ... "9  ("0 <--)
+"a ... "z
+"A ... "Z
+
+:reg
+
+.viminfo

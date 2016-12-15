@@ -1,0 +1,9 @@
+## Moving in buffer
+
+(Show the buffer positions!)
+
+gg
+:#
+G
+/ (n, N)
+? (n, N)

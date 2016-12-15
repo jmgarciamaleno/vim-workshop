@@ -1,0 +1,185 @@
+{
+    "_id": "5667e71a886688240a8b456b",
+    "cssFiles": [],
+    "cts": {
+        "album": {
+            "selectedTPL": "0",
+            "tpls": [
+                {
+                    "areas": [
+                        {
+                            "components": [
+                                {
+                                    "blockType": "block",
+                                    "componentType": "i18n",
+                                    "limit": "100",
+                                    "name": "i18n",
+                                    "resources": [],
+                                    "type": "i18n"
+                                }
+                            ],
+                            "groups": [],
+                            "id": "i18n",
+                            "width": "3"
+                        },
+                        {
+                            "color": "#105B63",
+                            "components": [
+                                {
+                                    "blockType": "block",
+                                    "componentType": "standalone",
+                                    "limit": "100",
+                                    "name": "bloque_includes",
+                                    "resources": [],
+                                    "type": "standalone"
+                                }
+                            ],
+                            "groups": [],
+                            "id": "fila_inferior",
+                            "width": "12"
+                        }
+                    ],
+                    "layout": "album.layout.html",
+                    "name": "album",
+                    "sluggedName": "album",
+                    "templateLayoutId": "5667e7198866884a0a8b4568"
+                }
+            ]
+        },
+        "autocover": {
+            "selectedTPL": "0",
+            "tpls": [
+                {
+                    "areas": [
+                        {
+                            "color": "#105B63",
+                            "components": [
+                                {
+                                    "class": "row-layout",
+                                    "componentType": "flexible",
+                                    "limit": "6",
+                                    "name": "destacadas",
+                                    "resources": [],
+                                    "type": "flex_b"
+                                }
+                            ],
+                            "groups": [],
+                            "id": "areaCol12A",
+                            "width": "12"
+                        },
+                        {
+                            "color": "#105B63",
+                            "components": [
+                                {
+                                    "blockType": "auto",
+                                    "class": "row-layout",
+                                    "componentType": "fijo",
+                                    "limit": "50",
+                                    "name": "automaticas",
+                                    "resources": [],
+                                    "type": "fix_c"
+                                },
+                                {
+                                    "class": "row-layout",
+                                    "componentType": "fijo",
+                                    "limit": "50",
+                                    "name": "includes",
+                                    "resources": [],
+                                    "type": "fix_include"
+                                }
+                            ],
+                            "groups": [],
+                            "id": "areaCol12B",
+                            "width": "12"
+                        },
+                        {
+                            "color": "#105B63",
+                            "components": [
+                                {
+                                    "class": "row-layout",
+                                    "componentType": "fijo",
+                                    "limit": "5",
+                                    "name": "promo",
+                                    "resources": [],
+                                    "type": "belt"
+                                }
+                            ],
+                            "groups": [],
+                            "id": "areaCol12C",
+                            "width": "12"
+                        }
+                    ],
+                    "layout": "autocover_auto.layout.html",
+                    "name": "autocover",
+                    "sluggedName": "autocover",
+                    "templateLayoutId": "5667e7198866884a0a8b456a"
+                }
+            ]
+        },
+        "grafico": {
+            "selectedTPL": "-1",
+            "tpls": []
+        },
+        "includes": {
+            "selectedTPL": "-1",
+            "tpls": []
+        },
+        "noticia": {
+            "selectedTPL": "0",
+            "tpls": [
+                {
+                    "areas": [
+                        {
+                            "components": [
+                                {
+                                    "blockType": "block",
+                                    "componentType": "i18n",
+                                    "limit": "100",
+                                    "name": "i18n",
+                                    "resources": [],
+                                    "type": "i18n"
+                                }
+                            ],
+                            "groups": [],
+                            "id": "i18n",
+                            "width": "3"
+                        },
+                        {
+                            "color": "#105B63",
+                            "components": [
+                                {
+                                    "blockType": "block",
+                                    "componentType": "standalone",
+                                    "limit": "100",
+                                    "name": "bloque_includes",
+                                    "resources": [],
+                                    "type": "standalone"
+                                }
+                            ],
+                            "groups": [],
+                            "id": "fila_inferior",
+                            "width": "12"
+                        }
+                    ],
+                    "layout": "noticia.layout.html",
+                    "name": "noticia",
+                    "sluggedName": "noticia",
+                    "templateLayoutId": "5667e71a8866884a0a8b456c"
+                }
+            ]
+        },
+        "videoct": {
+            "selectedTPL": "-1",
+            "tpls": []
+        }
+    },
+    "default": false,
+    "jsFiles": [],
+    "linkedWithMobile": false,
+    "name": "baloncesto",
+    "section": {
+        "portal": "cms-ueditlegacy",
+        "seccion": ""
+    },
+    "sluggedName": "baloncesto"
+}
