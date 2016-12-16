@@ -1,0 +1,23 @@
+## Summary
+
+-  Open, reload, save, quit
+
+-  Moving in buffer
+
+-  Moving in screen
+
+-  Moving in line
+
+-  Visual (select)
+
+-  Yank (copy) / cut / delete / paste
+
+-  Editing
+
+-  Replace
+
+-  Marks
+
+-  Objects
+
+-  Registers (clipboards)

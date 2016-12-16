@@ -1,3 +1,5 @@
 ## Replace
 
-:s/quitar/poner/gc
+:%s/search/replace/gc
+
+select + :s/search/replace/gc

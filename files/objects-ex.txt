@@ -1,0 +1,24 @@
+## Objects exercises
+
+1. Put the cursor in the middle of a word and select to the next with vw
+
+2. Put the cursor in the middle of a word and select it with vaw
+
+3. Select the paragraph with vip
+
+5.1. Select the whole <div> tag with vat
+5.2. Select the conent inside the <div> tag with vit
+
+<div>This is going to be magically removed by you ...</div>
+
+4. Put the cursor at the beginning of the line and delete everything inside "" with di"
+
+Yes, you are liking it because "vim rocks"
+
+5. Put the cursor in any {} and jump to its matching one with %
+
+{
+    {
+        "key": "value"
+    }
+}
