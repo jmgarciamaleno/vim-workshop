@@ -1,8 +1,8 @@
 ## Yank (copy) / cut / delete / paste exercises
 
 1.1. Select with v and yank with y the word "neverending"
-1.2. Go to the end of the line and paste it before with p
-1.3. Go to the beginning of the line and paste it after with P
+1.2. Go to the end of the line and paste it after with p
+1.3. Go to the beginning of the line and paste it before with P
 
 The neverending story.
 

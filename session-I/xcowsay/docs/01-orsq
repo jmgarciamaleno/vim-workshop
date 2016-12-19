@@ -1,6 +1,8 @@
-## Open, reload, save, quit
+## Open, reload, save, quit, undo, redo
 
 vim <file1> <file2> ...
 :e <file> / :e!
 :w / :w!
 :q / :q!
+
+u / ctrl-r
